@@ -12,6 +12,11 @@ Documentation
 --------------
 Documentation, including quick start, best-practice, use cases, and much more, is available on [ReadTheDocs](https://canvas-language-interop.readthedocs.io/)
 
+
+What are the tasks that are currently being worked on?
+------
+We track work in progress using [Github Projects](https://github.com/orgs/code4sac/projects/22)
+
 Communications channels
 -------
 Discussion Forum: https://github.com/hisergiorojas/canvas-language-Interop/discussions
