@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Google Apps Script
+.gsuser/
+appsscript.json
+appsscript.*
+
+# Ignore production .env file
+.env
