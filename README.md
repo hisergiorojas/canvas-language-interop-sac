@@ -12,6 +12,12 @@ Documentation
 --------------
 Documentation, including quick start, best-practice, use cases, and much more, is available on [ReadTheDocs](https://canvas-language-interop.readthedocs.io/)
 
+Want to spark a conversation or share your thoughts?
+---
+Have a question or need help with something? 
+Want to share your ideas or feedback?
+We use [GitHub Discussions](https://github.com/code4sac/canvas-language-interop/discussions) to facilitate productive conversations and collaboration. Join the discussion and let's work together!
+
 
 What are the tasks that are currently being worked on?
 ------
